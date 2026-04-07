@@ -1,0 +1,6 @@
+              Model  Train Accuracy  Test Accuracy  Precision   Recall  F1 Score
+Logistic Regression        0.966121       0.962332   0.959000 0.998958  0.978571
+      Decision Tree        1.000000       0.966816   0.975283 0.986458  0.980839
+                KNN        0.919901       0.905830   0.901408 1.000000  0.948148
+      Random Forest        1.000000       0.978475   0.976578 0.998958  0.987642
+           Stacking        0.999551       0.985650   0.987603 0.995833  0.991701
